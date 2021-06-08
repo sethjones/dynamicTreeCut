@@ -17,6 +17,6 @@ def test_cuttreeHybrid():
             1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
             1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
             1, 1, 1, 1]
-    
+
     assert (test['labels'] == true).all()
     assert False
